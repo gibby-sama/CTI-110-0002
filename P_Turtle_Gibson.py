@@ -44,5 +44,17 @@ a.backward(110)
 
 
 #movement pattern for g
-
+g.penup()
+g.goto(115, 0)
+g.pendown()
+g.forward(100)
+g.backward(100)
+g.right(90)
+g.forward(100)
+g.left(90)
+g.forward(100)
+g.left(90)
+g.forward(50)
+g.left(90)
+g.forward(50)
            
